@@ -1,0 +1,10 @@
+$brand-primary: #d9534f; 
+$font-family-sans-serif: "Open Sans",sans-serif;
+$small-break-point: 768px;
+
+@import "bootstrap";
+@import 'modules/_header';
+@import 'modules/_base';
+@import 'modules/_home';
+@import 'modules/_pages';
+@import 'modules/_posts';

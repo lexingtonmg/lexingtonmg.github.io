@@ -1,0 +1,25 @@
+{
+  "name": "ubug",
+  "version": "0.0.0",
+  "homepage": "http://lexingtonmg.com",
+  "authors": [
+    "Parker Grimes <parker@lexingtonmg.com>"
+  ],
+  "description": "Lexington Media Group",
+  "main": "css/app.css",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "twbs/bootstrap-sass#~3.1.1"
+  }
+}
